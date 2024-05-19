@@ -1,3 +1,6 @@
+# Santander Customer Satisfaction
+Explore customer satisfaction dynamics with this project, utilizing advanced machine learning techniques to predict and understand the factors influencing customer contentment for Santander. Analyze feature-rich datasets to uncover valuable insights and enhance your predictive modeling skills.
+
 # Introduction
 Begin your journey into the realms of machine learning and exploratory data analysis (EDA) with this foundational assignment. Designed to introduce you to Python's Scikit-Learn library, this task involves delving into the intricacies of EDA and building initial machine learning models. The focus is on the Santander Customer Satisfaction Kaggle competition, challenging you to predict customer satisfaction. Utilize decision tree classification models from Scikit-Learn, experimenting with parameter adjustments for alternative solutions. This assignment provides a comprehensive introduction to machine learning principles and their practical applications in real-world scenarios.
 
