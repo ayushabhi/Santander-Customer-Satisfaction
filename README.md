@@ -9,3 +9,5 @@ Begin your journey into the realms of machine learning and exploratory data anal
 
 # Dataset
 This project centers around the Santander Customer Satisfaction dataset, a key component of the Kaggle competition. The dataset includes diverse features aimed at predicting customer satisfaction, making it an ideal playground for machine learning exploration. Focusing on decision tree classification models, the dataset offers a chance to delve into the intricacies of customer behavior and satisfaction dynamics.
+Kaggle Link:
+[Santander Customer Satisfaction Kaggle Competition](https://www.kaggle.com/c/santander-customer-satisfaction)
